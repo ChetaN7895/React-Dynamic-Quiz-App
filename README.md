@@ -20,6 +20,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+## Output may look like that :
+![React Quiz APP - Google Chrome 16-10-2024 17_05_06](https://github.com/user-attachments/assets/8dc351a1-7a77-4189-8d62-24734056e48a)
+![React Quiz APP - Google Chrome 15-10-2024 21_38_22](https://github.com/user-attachments/assets/143b1af2-de57-41ab-955f-4699d4bed0cb)
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
